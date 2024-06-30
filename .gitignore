@@ -1,2 +1,4 @@
 __MACOSX/
 PaDEL-Descriptor/
+.venv/
+sklearn-env/
