@@ -2,3 +2,4 @@ __MACOSX/
 PaDEL-Descriptor/
 .venv/
 sklearn-env/
+.ipynb_checkpoints/
